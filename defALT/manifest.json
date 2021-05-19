@@ -1,8 +1,8 @@
 {
     "name": "DefALT",
     "version": "1.0",
-    "author": "AUTHOR PLACEHOLDER",
-    "description": "DESCRIPTION PLACEHOLDER",
+    "author": "Khalid Ahmad, Irene Han, and Matilda Nickell",
+    "description": "Nudges users towards making their Facebook posts accessible by effectively switching addition of Alt-Text to opt-out rather than opt-in. When uploading photos to Facebook, DefALT automatically navigates you to the 'Add Alt-Text' screen for easy entry. ",
     "permissions": [
         "activeTab"
     ],
